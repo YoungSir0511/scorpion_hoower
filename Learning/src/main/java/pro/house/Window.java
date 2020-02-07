@@ -19,7 +19,17 @@ public class Window {/* I guess this is the window*/
 
 
     // on more thing if u can make git commits and pushes much more easier here i show u how
-
+// cool :) if u check now u got evrything on the github server online
+    //if u made the new classes u can commit and push tehem and if u tell that to me i can check it evrytime
+    //cool,i will submit the home work on there :).
+    // :) okay can we solve that to speak during a session like this? it would be much more easier to show tricks and tips
+    //yes
+    // nice :) what about tomorrow around the time when we started today? xD
+    // noted i will be available :)
+    // r u okay with that if we finish for today?
+    //yes
+    // okay :) see u tomorrow then! :*
+    // kisses....
 
 
 
